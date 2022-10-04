@@ -28,4 +28,4 @@ async def stock(ctx):
      em = discord.Embed(title='Stock', description=f'Stock: **{accounts}** em stock!')
       
      await ctx.send(embed=em)
-bot.run('your token here')
+bot.run('your token here"')
