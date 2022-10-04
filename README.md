@@ -1,7 +1,7 @@
 <h1>Account Generator</h1>
 <h2>Setup: <br>
 1 - Install Python on <a href="https://www.python.org/downloads/"> Click Here! </a> <br>
-2 - Active shell on the instalation <br>
+2 - Click on "Add to Path" on the instalation <br>
 3 - Type on cmd **pip install discord** <br>
 4 - Generate token on https://discord.com/developers/applications <br>
 5 - Put on main.py <br>
